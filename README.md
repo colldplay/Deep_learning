@@ -1,5 +1,5 @@
 # Visual recognision algorithms for Autonomous navigation
-Acumulated Deep learning and autonomous navigation material
+Acumulated Deep learning and visual recognision material for autonomous navigation
 
 - SURF
 - FAST
