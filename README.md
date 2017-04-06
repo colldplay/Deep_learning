@@ -1,4 +1,4 @@
-# Deep_learning & Autonomous navigation
+# Visual recognision algorithms for Autonomous navigation
 Acumulated Deep learning and autonomous navigation material
 
 - SURF
