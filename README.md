@@ -6,5 +6,4 @@ Acumulated Deep learning and visual recognision material for autonomous navigati
 - PST
 - pushbroom
 - Bag Of Features
-- VT&R
-- Path planning, path following, topometry...
+
