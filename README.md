@@ -1,4 +1,4 @@
-# Visual recognision algorithms for Autonomous navigation
+# Visual recognision/odometry methods&algorithms for Autonomous navigation
 Acumulated Deep learning and visual recognision material for autonomous navigation
 
 - SURF
